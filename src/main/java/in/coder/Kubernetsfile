@@ -1,3 +1,5 @@
 USEJDK: 11
 
 MODIFAIRNAME: NEERAJ
+
+int i = 20;
