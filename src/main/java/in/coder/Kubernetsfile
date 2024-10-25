@@ -1,0 +1,5 @@
+FROM  OPENjDK17 version 
+
+copy target/app.jar/user/app/app.jar
+
+int i =10;
